@@ -1,4 +1,4 @@
-def sum(a,b):
+def sumation(a,b):
     sum=a+b
     print("sum:git add",sum)
 add(10,20)
